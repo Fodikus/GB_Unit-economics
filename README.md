@@ -9,6 +9,4 @@
 
 Данное домашнее задание является итоговым по всему курсу. Для того, чтобы преподаватель засчитал вам это задание, у вас должны быть заполнены все вкладки из файла-шаблона.
 
-Выполняйте задание по этому шаблону:
-
-https://docs.google.com/spreadsheets/d/12c21EF7vmPwq73-X-KQVHWHYQDEpPls9I16I64tuP24/edit?usp=sharing
+Выполняйте задание по этому шаблону: https://docs.google.com/spreadsheets/d/12c21EF7vmPwq73-X-KQVHWHYQDEpPls9I16I64tuP24/edit?usp=sharing.
